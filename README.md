@@ -1,0 +1,2 @@
+# Automated-detection-of-cyberaggresion-and-abuser-profiling-
+Developed a real-time chat application with cyber-aggression detection using WebSockets. Implemented NLP-based Logistic Regression with TF-IDF to classify abusive messages, block harmful content, and profile repeat offenders. Added friend requests, real-time alerts, and message interception using Python, MySQL, HTML, CSS, JavaScript, and Socket.IO.
